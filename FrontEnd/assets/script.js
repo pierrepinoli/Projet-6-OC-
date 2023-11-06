@@ -189,7 +189,7 @@ function displayWorksModal(dataWorks) {
     modalPictureDiv.appendChild(image);
     modalPictureDiv.appendChild(pictureTrashBoxDiv);
     modalPictures.appendChild(modalPictureDiv);
-    clickTrashBox(dataWorks);
+   
 
   }
 }
